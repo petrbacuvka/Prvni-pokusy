@@ -1,0 +1,1 @@
+Složka sloužící k vyzkoušení git
