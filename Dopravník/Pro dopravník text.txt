@@ -1,2 +1,2 @@
 jak otestovat dopravník:
-1 spusť
+1 spusťs
